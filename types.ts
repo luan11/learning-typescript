@@ -51,3 +51,11 @@ let cart: object
 cart = {
 	key: 'foo'
 }
+
+// Type Inference
+let message2 = 'defined message'
+// message2 = 1 // Doesn't work
+
+window.addEventListener('click', (e) => {
+	console.log(e.target)
+})
