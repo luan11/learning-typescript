@@ -1,4 +1,4 @@
-// Type Aliases
+// Type Aliases (Pipe "|" => Union)
 type Uid = number|string|undefined;
 
 function logDetails(uid: Uid, item: string)
