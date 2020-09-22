@@ -6,6 +6,12 @@ Comando: `tsc arquivo.ts --watch`
 
 ---
 
+Criar o arquivo `tsconfig.json`
+
+Comando: `tsc --init`
+
+---
+
 ## :notebook: Boas práticas
 
-[x] Tipar somente o necessário, evitar redundâncias
+- [x] Tipar somente o necessário, evitar redundâncias
