@@ -12,6 +12,10 @@ Comando: `tsc --init`
 
 ---
 
+Interface é utilizada geralmente em Classes
+
+---
+
 ## :notebook: Boas práticas
 
 - [x] Tipar somente o necessário, evitar redundâncias
