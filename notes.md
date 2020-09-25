@@ -16,6 +16,13 @@ Interface é utilizada geralmente em Classes
 
 ---
 
+**Type Utilities**
+
+- Pegar mais coisas: Utilizar `Omit<>`
+- Remover mais coisas: Utilizar `Pick<>`
+
+---
+
 ## :notebook: Boas práticas
 
-- [x] Tipar somente o necessário, evitar redundâncias
+- Tipar somente o necessário, evitar redundâncias
